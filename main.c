@@ -1,10 +1,4 @@
 
-/*
- * Projekt z przedmiotu Zastosowania Procesorów Sygnałowych
- * Szablon projektu dla DSP TMS320C5535
- * Grupa T1 1 Stencel Kaczorek
- */
-
 
 // Dołączenie wszelkich potrzebnych plików nagłówkowych
 #include "usbstk5515.h"
